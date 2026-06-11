@@ -1,0 +1,20 @@
+{
+  "templater-obsidian:create-Templates/documents Templates 1.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "4"
+    }
+  ],
+  "templater-obsidian:Templates/insert index 1.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "0"
+    }
+  ]
+}
