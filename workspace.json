@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/solution Note Templates 1.md",
+                "file": "Templates/Daily Note Templates 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "solution Note Templates 1"
+              "title": "Daily Note Templates 1"
             }
           }
         ]
@@ -192,14 +192,18 @@
       "daily-notes:오늘의 일일 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "bases:새 베이스 생성하기": false
+      "bases:새 베이스 생성하기": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "2cedf04220f225e2",
+  "active": "ee6f0bee1eb705c3",
   "lastOpenFiles": [
+    "Templates/solution Note Templates 1.md",
+    "Templates/insert index 1.md",
+    "Templates/documents Templates 1.md",
+    "Templates/Daily Note Templates 1.md",
     "02.(Company_name)Doc_Asset/00.Tasks",
     "Tasks/instance_folder/2026/2026.06/2026.06.11/test.md",
-    "Templates/solution Note Templates 1.md",
     "Tasks/instance_folder/2026/2026.06/2026.06.11",
     "Tasks/instance_folder/2026/2026.06",
     "Tasks/instance_folder/2026",
@@ -210,12 +214,8 @@
     "Tasks/2026/2026.06",
     "Tasks/2026/06",
     "Tasks/2026",
-    "Templates/insert index 1.md",
-    "Templates/documents Templates 1.md",
-    "Templates/Daily Note Templates 1.md",
     "02.(Company_name)Doc_Asset/04.Archive/mo",
     "02.(Company_name)Doc_Asset/04.Archive/to",
-    "02.(Company_name)Doc_Asset/04.Archive/fo",
     "무제.md",
     "환영합니다!.md"
   ]
