@@ -25,5 +25,14 @@
       ],
       "key": "T"
     }
+  ],
+  "templater-obsidian:Templates/insert properties.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "P"
+    }
   ]
 }

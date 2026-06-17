@@ -30,7 +30,8 @@
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
     "Templates/documents Templates 1.md",
-    "Templates/insert index 1.md"
+    "Templates/insert index 1.md",
+    "Templates/insert properties.md"
   ],
   "startup_templates": [
     ""
