@@ -1,0 +1,25 @@
+.attachment-mirroring-log {
+  max-height: 240px;
+  overflow: auto;
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 6px;
+  padding: 8px;
+  background: var(--background-secondary);
+  font-size: var(--font-ui-smaller);
+}
+
+.attachment-mirroring-log pre {
+  margin: 0;
+  white-space: pre-wrap;
+}
+
+.attachment-organizer-path-preview {
+  margin: -6px 0 12px;
+  padding-left: 6px;
+  color: var(--text-muted);
+  font-size: var(--font-ui-smaller);
+}
+
+.attachment-organizer-path-preview code {
+  color: var(--text-normal);
+}

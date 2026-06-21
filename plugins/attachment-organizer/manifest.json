@@ -1,0 +1,9 @@
+{
+  "id": "attachment-mirroring",
+  "name": "Attachment Organizer",
+  "version": "0.1.0",
+  "minAppVersion": "1.5.0",
+  "description": "Organize non-Markdown files into a single attachments folder using a representative note frontmatter value.",
+  "author": "Reone",
+  "isDesktopOnly": false
+}
